@@ -1,0 +1,10 @@
+577c784d3f23edeff1295e9241be2170 *DESCRIPTION
+5355270d2a17adef325ff46933b11849 *NAMESPACE
+1b14411fb3449cbe42fabdabe3b0fc8e *R/ICC.R
+5594b7414e0ad687b8432de0dcdee7e1 *R/hausman.R
+432118e13172e508fa9e0da6c174a885 *R/rewie_dat.R
+6e6ca39779172817fb8c0c1f55fbbc5e *R/rewie_rsq.R
+a98974a32dd08b18a7b99cf9f6053505 *man/ICC.Rd
+ddd41bbce351e292d47f3a78d8f4fa58 *man/hausman.Rd
+9a800db33187d4782f3c405872ceea88 *man/rewie_dat.Rd
+84c4d30e7e1d33f3857fbd6b1747dab2 *man/rewie_rsq.Rd
